@@ -1,8 +1,8 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+Este es un proyecto creado con [Next.js](https://nextjs.org/).
 
-## Getting Started
+## ¿Cómo iniciar
 
-First, run the development server:
+Primero, correr en el servidor de desarrollo:
 
 ```bash
 npm run dev
@@ -10,9 +10,9 @@ npm run dev
 yarn dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Abrir [http://localhost:3000](http://localhost:3000) en el navegador para ver los resultados.
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+Puede comenzar a editar la página modificando `pages/index.js`. La página se actualiza automáticamente a medida que edita el archivo.
 
 [API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
 
