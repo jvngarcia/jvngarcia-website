@@ -1,3 +1,4 @@
+import Image from 'next/image';
 import logo from '../public/jvngarcia-logo.png';
 
 
@@ -9,7 +10,7 @@ export default function Header(){
                 <div className="flex justify-start lg:w-0 lg:flex-1">
                     <a href="#">
                     <span className="sr-only">Workflow</span>
-                    <img className="h-8 w-auto sm:h-10" src="../public/jvngarcia-logo.png" alt="" />
+                    <Image className="h-8 w-auto sm:h-10" src={logo} alt="" />
                     </a>
                 </div>
                 <nav className="hidden md:flex space-x-10">
