@@ -1,5 +1,5 @@
-import Image from "next/image";
-import logo from "../public/images/jvngarcia-logo.png";
+import Image from 'next/image';
+import logo from '../public/jvngarcia-logo.png';
 
 
 export default function Header(){
