@@ -1,7 +1,13 @@
 import Header from '../components/header'
+import Outstanding from '../components/outstanding';
 
-export default function Home() {
+const Home = () => {
   return (
-    <Header/>
+    <>
+      <Header/>
+      <Outstanding/>
+    </>
   )
 }
+
+export default Home;
